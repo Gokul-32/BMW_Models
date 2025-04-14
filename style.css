@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('images/bckgrnd.gif'); /* Replace with your image URL */
+    background-image: url('assets/bckgrnd.gif'); /* Replace with your image URL */
     background-size: cover;  /* Ensures the image scales without distortion */
     background-repeat: no-repeat;  /* Prevents tiling */
     background-attachment: fixed;  /* Keeps the background static on scroll */
